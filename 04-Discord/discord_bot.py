@@ -12,4 +12,4 @@ async def on_ready():
     
     print(client.user, "has connected to the client")
 
-client.run("OTA2MTcxMTEyNzg0NzkzNjUx.YYUvnQ.-vip5axhpwy1XXuirG4l2uPxcXI")
+client.run("")
